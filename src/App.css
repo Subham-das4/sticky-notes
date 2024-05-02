@@ -1,0 +1,29 @@
+:root{
+  --z-index-on-grab: 100000;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home{
+  min-height: 100vh;
+  max-width: 100vw;
+  background-color: rgba(250, 235, 215, 0.548);
+}
+
+.note-form{
+
+}
+
+.note-form input{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  outline: none;
+}
+

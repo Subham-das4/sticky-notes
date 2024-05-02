@@ -1,0 +1,12 @@
+To add note : 
+    a. Input text in the input box.
+    b. press enter to create a note
+
+To move a note :
+    a. Press and hold to select a note 
+    b. Move mouse to a desired location 
+    c. Release the mouse 
+
+To delete a note : 
+    a. Right click on that note (delete option will appear)
+    b. Left click on the delete button
